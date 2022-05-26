@@ -1,5 +1,5 @@
-# Mcpvpbot
-***instruction***
+# Mc pvp bot
+# ***Instruction***
 
 first you ave to download nodejs
 
@@ -8,6 +8,10 @@ https://nodejs.org/en/
 then open node command prompt (type it in windwos search bar)
 
 type this cmd: ***npm instal mineflayer***
+
+and o to index.js (open it wit nodepad)
+
+change host and port
 
 
 
