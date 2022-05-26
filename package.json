@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "forever": "^4.0.3",
+    "mineflayer": "^4.3.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-pathfinder": "^2.1.1",
+    "mineflayer-pvp": "^1.2.1",
+    "pm2": "^5.2.0"
+  }
+}
