@@ -4,8 +4,8 @@ const { pathfinder, Movements, goals} = require('mineflayer-pathfinder')
 const armorManager = require('mineflayer-armor-manager')
 
 const bot = mineflayer.createBot({
-    host:'puturserveradres',
-    port: 'puturport',
+    host:'PUT-YOUR-SERVER-ADDRES',
+    port: 'PUT_UR_port',
     username: process.argv[4] || 'pvpBot',
     password: process.argv[5],
     logErrors: false
