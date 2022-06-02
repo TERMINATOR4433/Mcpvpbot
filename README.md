@@ -6,16 +6,15 @@ first you ave to download nodejs
 https://nodejs.org/en/
 
 then open node command prompt (type it in windwos search bar)
+type this cmd: ***npm instal mineflayer mineflyer-pvp mineflayer-pathfinder mineflayer-armor-manager*** (copy and Paste it)
 
-type this cmd: ***npm instal mineflayer***
-
-and o to index.js (open it wit nodepad)
+and on index.js (open it with nodepad)
 
 change host and port
 
 
 
-
+Type this in node command prompt 
 To make the bot join ur server 
 type: ```node index.js <server address> <server port> <name of ur bot>```
 
