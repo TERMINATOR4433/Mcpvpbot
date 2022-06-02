@@ -15,7 +15,9 @@ change host and port
 
 
 Type this in node command prompt 
-To make the bot join ur server 
+
+To make the bot join ur server
+
 type: ```node index.js <server address> <server port> <name of ur bot>```
 
 Dont include tis symbole: < > 
